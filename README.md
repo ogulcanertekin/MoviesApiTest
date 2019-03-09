@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ogulcanertekin/MoviesApiTest.svg)](https://travis-ci.org/ogulcanertekin/MoviesApiTest)
+
 # Movies
  
 | Route | HTTP Verb | POST body | Description |
